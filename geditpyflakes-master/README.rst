@@ -1,4 +1,4 @@
-:author: Gustavo Rezende <nsigustavo@gmail.com>
+:author: Segun David <segundavidk@gmail.com>
 
 Gedit Pyflakes Plugins
 ======================
